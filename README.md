@@ -1,8 +1,5 @@
-Google Data Analytics Capstone: Cyclistic Bike-Share Analysis
+#Google Data Analytics Capstone: Cyclistic Bike-Share Analysis
 Course: Google Data Analytics Capstone: Complete a Case Study
-
-Introduction
-Hi, my name is Faiq Al Fachrell Putra Viendra and I'm doing this to add case study to my portfolio project.
 
 This repository contains the work for the Google Data Analyics Cyclistic Bike-Share Capstone Case Study. The analysis aims to compare the behaviors of casual riders and annual members, with the goal of designing a marketing strategy to convert casual riders into annual members. The data provided is historical trip data from Fictional Company Cyclistic's bike-share system. The analysis steps were conducted in phases as follows: Ask, Prepare, Process, Analyze, Share and Act. There is also a Summary.
 
